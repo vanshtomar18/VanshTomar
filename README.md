@@ -1,4 +1,4 @@
-# Hi there, I'm Vansh! 👋
+
 # 🌟 Hey there, I'm Vansh! 👋
 
 <div align="center">
@@ -26,7 +26,7 @@ const vansh = {
    funFact: "I turn ☕ into 💻",
    motto: "Code. Learn. Repeat. 🔁"
 };
-
+```
 ⚡ Tech Stack
 <details open> <summary>💻 Languages</summary>
 
