@@ -67,7 +67,7 @@ const vansh = {
 <div align="center">
 
 ### 🔌 PluggedIn
-[![Live Demo](https://img.shields.io/badge/-Live%20Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://plugged-gbln81c1s-vansh-tomars-projects-3e0d6c3d.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/-Live%20Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://plugged-lxp1js9cj-vansh-tomars-projects-3e0d6c3d.vercel.app)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanshtomar18/pluggedin)
 
 ### ✉️ EmailGen
