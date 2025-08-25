@@ -101,13 +101,14 @@ const vansh = {
 - 🎨 **Full-Stack Integration** - Connecting frontend with robust backends
 
 ### 🎯 2024-2025 Goals
+- [x] **Frontend Mastery** - React, JavaScript, responsive design
 - [ ] **Master MERN Stack** - MongoDB, Express, React, Node.js
 - [ ] **Build Authentication Systems** - Login/signup, role-based access
 - [ ] **Deploy 5 Full-Stack Apps** - Complete projects with backend
 - [ ] **Learn AI/ML Fundamentals** - Python, TensorFlow, OpenAI APIs
 - [ ] **Create AI-Powered Web Apps** - Integrating AI into real projects
 - [ ] **Contribute to Open Source** - MERN stack projects
-- [x] **Frontend Mastery** - React, JavaScript, responsive design
+
 
 ### 🤖 Future AI Aspirations
 - 📚 **Learning Path:** Python → Machine Learning → Deep Learning
