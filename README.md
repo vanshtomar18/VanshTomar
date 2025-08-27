@@ -57,11 +57,6 @@ const vansh = {
 📊 GitHub Analytics
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vanshtomar18&show_icons=true&theme=radical&hide_border=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshtomar18&layout=compact&theme=radical&hide_border=true" height="165" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshtomar18&theme=radical&hide_border=true" height="150"/> </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshtomar18&theme=react-dark&hide_border=true&area=true" height="300"/> </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vansh&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
-</div>
-
 ## 🔥 Featured Projects
 
 <div align="center">
